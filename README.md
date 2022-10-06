@@ -1,3 +1,3 @@
 # elasticsearch-shard-cost-calculator
 
-For singapore region.
+For "ap-southeast-1" region.
